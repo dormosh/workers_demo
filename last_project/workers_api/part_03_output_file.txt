@@ -1,3 +1,0 @@
-employee_id,first_name,last_name,email,phone_number,hire_date,jobs,salary,commission_pct,manager_id,department_id
-2,James,Potter,James@Potter,123456789,1999-04-17,"[8, 5, 7]",50000.5,0.1,1,
-9,Molly,Weasley,Molly@Weasley,123434445,2020-01-01,[8],66660.088,2.5,1,15
